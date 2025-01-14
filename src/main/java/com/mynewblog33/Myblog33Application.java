@@ -12,6 +12,9 @@ public class Myblog33Application {
 
 
 		System.out.println("done");
+		System.out.println("done");
+
+
 	}
 	@Bean
 	public ModelMapper modelMapper(){
